@@ -4,7 +4,7 @@ Hi 👋 My name is Robin
 Sr. Operations Manager | Data Analyst at Heart
 -------------------------
 
-* 🌍  I'm based in Germany
+* 🌍  Based in Germany
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Story behind the name: BANGERANG, which is acutally just a referenace to the lost boys from the movie hook. Apart from it being a super badass movie with one of the top actors ever lived (who btw is my namesake), it's the Jamaican word for “chaos”. With years of work experience in operations, I thaught it fits quite good. 😎
 * 👀 I’m interested in data, good food and conversations about Harry Potter.
