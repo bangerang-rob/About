@@ -7,7 +7,7 @@ Sr. Operations Manager | Data Analyst at Heart
 * 🌍  Based in Germany
 * 🚀  I'm currently working on an an automated program for creating html formatted tracking emails using a backend dataframe created in python
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Story behind the name: BANGERANG, which is acutally just a referenace to the lost boys from the movie hook. Apart from it being a super badass movie with one of the top actors ever lived (who btw is my namesake), it's the Jamaican word for “chaos”. With years of work experience in operations, I thaught it fits quite good. 😎
+* ⚡  Basically a mix of my real-world-name "Robin", my background in operations and my transition into the tech. Thaught it fits quite good. 😎
 * 👀 I’m interested in data, good food and conversations about Harry Potter.
 
 ### Skills
