@@ -1,7 +1,7 @@
 Hi 👋 My name is Robin
 ================================
 
-Sr. Operations Manager | Data Analyst at Heart
+Sr. Operations Manager | Software Geek at Heart
 -------------------------
 
 * 🌍  Based in Germany
