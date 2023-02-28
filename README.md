@@ -5,9 +5,9 @@ Sr. Operations Manager | Software Geek at Heart
 -------------------------
 
 * 🌍  Based in Germany
-* 🚀  I'm currently working on an an automated program for creating html formatted tracking emails using a backend dataframe created in python
+* 🚀  I'm currently working on an GUI desktop app, created with PyQt to connect to a shopware5 API and perform various tasks in the backend. 
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Basically a mix of my real-world-name "Robin", my background in operations and my transition into the tech. Thaught it fits quite good. 😎
+* ⚡  Basically a mix of my real-world-name "Robin", my background in operations and my transition into the tech. Thought it fits quite good. 😎
 * 👀 I’m interested in data, good food and conversations about Harry Potter.
 
 ### Skills
