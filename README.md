@@ -1,5 +1,8 @@
 Hi 👋 My name is Robin
 ================================
+<p align="center">
+  <img src="https://media.giphy.com/media/26mE6F2ZC4RoJCyDC/giphy.gif" alt="Howdy Partners" />
+</p>
 
 Sr. Operations Manager | Software Geek at Heart
 -------------------------
@@ -22,9 +25,6 @@ Sr. Operations Manager | Software Geek at Heart
 
 <p align="left"> <a href="https://www.github.com/ropstech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/robinspalthoff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18754958" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26mE6F2ZC4RoJCyDC/giphy.gif" alt="Howdy Partners" />
-</p>
 
 ### Badges
 
